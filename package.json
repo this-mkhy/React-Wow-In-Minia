@@ -2,7 +2,7 @@
   "name": "React-Wow-In-Minia",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://this_mkhy.github.io/React-Wow-In-Minia",
+  "homepage": "http://this-mkhy.github.io/React-Wow-In-Minia",
   "dependencies": {
     "google-maps-react": "^2.0.2",
     "escape-string-regexp": "^1.0.5",
